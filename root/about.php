@@ -62,7 +62,7 @@
  <h2 align = "center">Background</h2>
  
  <p>We were first created in 2016 by a small group of GCU student's that 
- had a love for gamin, and used this passion to create a community driven 
+ had a love for gaming, and used this passion to create a community driven 
  place for similar people to connect. It started small but grows each year 
  with more new eager members ready to represent their University with their 
  gaming skills. Our Vice President, Callum Greenshields, says "It(The Caledonian Chargers) 
@@ -87,7 +87,7 @@
 <p>Our main focus is competing agaist other universities from all over the world in various different games. 
 At home in the UK we compete in what is known as the National University Esports League(NUEL) which is an Esports competition that 
 brings the best of the best from diffirent universities to battle out on their favourite games to see who will rise the champion. 
-Besides from the competetive nature, we also have small tournements within our University among the members of the teams. These games allow for 
+Besides from the competitive nature, we also have small tournaments within our University among the members of the teams. These games allow for 
 everyone to have fun and play the games they love. However, things tend to still get just as competetive.</p>
 
 

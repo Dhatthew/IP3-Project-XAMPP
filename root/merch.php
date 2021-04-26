@@ -28,7 +28,7 @@
  
 			<li><a class="active" href="merch.php">Merch</a></li>
             
-            <li><a href="contact.php">Contact</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
             <li><a href="about.php">About</a></li>
 				<?php
 	if(isset($_COOKIE['type'])){
